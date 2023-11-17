@@ -1,0 +1,6 @@
+#Requerimientos del proyecto
+# instalacion :  pip install -r requirements.txt
+pandas
+matplotlib
+missingno  #Exploracion de nulos
+unicode
