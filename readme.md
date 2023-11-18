@@ -1,9 +1,9 @@
 # El Internet en Argentina
-2do Proyecto Henry - Telecomunicaciones
-Repo Github : [Henry-Proyect2](https://github.com/AlexdeAlba/Henry-Proyect2)
+#### 2do Proyecto Henry - Telecomunicaciones<br>
+**Github** : [Henry-Proyect2](https://github.com/AlexdeAlba/Henry-Proyect2)
 
 
-**Contacto:** 
+###### **Contacto:** <br>
 LinkedIn :  [Alejandro de Alba](https://www.linkedin.com/in/alejandro-de-alba/) <br>
 Mail : [a.dealba@bellizzia.com](a.dealba@bellizzia.com)
 
@@ -83,6 +83,11 @@ Para poder entenderlos mejor se grafican y así poder escoger los mas interesant
 Archivo : [06-Transformacion_BD.ipynb](06-Transformacion_BD.ipynb)
 Se hacen las adecuaciones necesarias para poder hacer la presentación en power bi
 
+
+### Transformaciones y grafica del KPI propuesto
+Archivo : [07-KPI_Propuesto.ipynb](07-KPI_Propuesto.ipynb) Se hacen las adecuacniones en el archivo y se grafica
+
+
 Al final se hicieron transformaciones quedandome con los siguientes archivos para incluirlos en Power BI
 
 1. 01-CrecimientoxProvincia.csv
@@ -98,6 +103,9 @@ Al final se hicieron transformaciones quedandome con los siguientes archivos par
 11. Serie_trimestral_accesos_internet_fijo_por_tecnologia.csv
 12. Velocidad_media_bajada_internet_fijo_por_provincia.csv
 13. Velocidad_Media_de_bajada_internet_fijo.csv
+
+### KPI´s Sugeridos
+14. kpi_propuesto.csv
 
 ![Alt text](archivosPowerBi.png)
 

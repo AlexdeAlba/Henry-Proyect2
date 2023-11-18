@@ -61,7 +61,12 @@ git push -u origin master
 En el archivo ProyectFile.txt se encuentran los archivos que seran compartidos en el github.
 
 ```bash
+#Archivo sin comentarios
 git add -A -f -- $(cat ProyectFiles.txt)
+
+# Para no incluir comentarios enmarcados con /*
+Get-Content ProyectFiles.txt | Where-Object { $_ -notmatch '^\/\*' } | ForEach-Object { git add $_ }
+
 
 git commit -m "Proyecto 1 Individual Henry"
 

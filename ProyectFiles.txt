@@ -1,6 +1,3 @@
-/************************************************************/
-/*  grep -v '^\/\*' ProyectoFiles.txt | git add -A -f --    */
-/************************************************************/
 readme.md
 requirements.txt
 ProyectFiles.txt
@@ -10,7 +7,6 @@ ProyectFiles.txt
 04-KPIs_e_Insights.md
 05-Graficando_KPI's.ipynb
 06-Transformacion_BD.ipynb
+07-KPI_Propuesto.ipynb
 archivosPowerBi.png
 ii.md
-
-
